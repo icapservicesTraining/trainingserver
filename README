@@ -1,0 +1,4 @@
+#Server project
+
+#To start server type in terminal :
+node server.js
